@@ -1,0 +1,19 @@
+{
+  "name": "testenvironment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint src/*.js",
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.18.6",
+    "@babel/plugin-transform-modules-commonjs": "^7.18.6",
+    "eslint": "^8.18.0",
+    "jest": "^24.9.0"
+  }
+}
