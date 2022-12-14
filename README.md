@@ -17,6 +17,10 @@ This is simply a testing/linting environment using Jest and ESLint. Babel is use
 * Run tests in the terminal with the command: `npm run test`
 * Run ESLInt in the terminal with the command: `npm run lint`
 
+## Node and NPM Versions used in creating this repository:
+* `$ node -v`: v18.11.0
+* `$ npm -v`: 8.19.2
+
 ## License
 
 [MIT](https://opensource.org/licenses/MIT)
